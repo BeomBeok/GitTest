@@ -3,6 +3,7 @@
 
 int main(void) {
 //fefefeffefef
+	int a =100;
 	printHello();
 	printBye();
 	
